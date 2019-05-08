@@ -28,7 +28,13 @@ namespace Oefening_53
         {
 
         }
+
         static void David()
+        {
+
+        }
+
+        static void ThomasDM()
         {
 
         }
