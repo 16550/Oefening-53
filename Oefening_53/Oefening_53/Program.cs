@@ -8,6 +8,12 @@ namespace Oefening_53
         {
             Console.WriteLine("Hello Class!");
         }
+
+        static void ThomasVB()
+        {
+
+        }
+
         static void Jasper()
         {
 
@@ -18,7 +24,22 @@ namespace Oefening_53
 
         }
 
-        static void Johnny()
+        static void Philip()
+        {
+
+        }
+
+        static void David()
+        {
+
+        }
+
+        static void Glenn()
+        {
+
+        }
+
+        static void ThomasDM()
         {
 
         }
