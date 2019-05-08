@@ -9,6 +9,30 @@ namespace Oefening_53
             Console.WriteLine("Hello Class!");
         }
 
+        static void ThomasVB()
+        {
+
+        }
+
+        static void Jasper()
+        {
+
+        }
+
+        static void Brmvnmol()
+        {
+
+        }
+
+        static void Johnny()
+        {
+
+        }
+        static void David()
+        {
+
+        }
+
         static void Glenn()
         {
 
