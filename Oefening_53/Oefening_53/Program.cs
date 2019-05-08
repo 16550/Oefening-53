@@ -6,7 +6,17 @@ namespace Oefening_53
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Class!");
+        }
+
+        static void Jasper()
+        {
+
+        }
+
+        static void Brmvnmol()
+        {
+
         }
 
         static void Johnny()
