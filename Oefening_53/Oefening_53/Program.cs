@@ -10,7 +10,10 @@ namespace Oefening_53
         }
 
         static void ThomasVB()
-        { }
+        {
+
+        }
+
         static void Jasper()
         {
 
