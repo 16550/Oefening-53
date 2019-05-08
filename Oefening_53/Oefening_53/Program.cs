@@ -9,6 +9,8 @@ namespace Oefening_53
             Console.WriteLine("Hello Class!");
         }
 
+        static void ThomasVB()
+        { }
         static void Jasper()
         {
 
