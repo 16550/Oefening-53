@@ -24,16 +24,22 @@ namespace Oefening_53
 
         }
 
-        static void Johnny()
+        static void Philip()
         {
 
         }
+
         static void David()
         {
 
         }
 
         static void Glenn()
+        {
+
+        }
+
+        static void ThomasDM()
         {
 
         }
