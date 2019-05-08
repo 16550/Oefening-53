@@ -8,7 +8,6 @@ namespace Oefening_53
         {
             Console.WriteLine("Hello Class!");
         }
-
         static void Jasper()
         {
 
@@ -23,5 +22,10 @@ namespace Oefening_53
         {
 
         }
+        static void Edmond()
+        {
+
+        }
+
     }
 }
