@@ -10,7 +10,10 @@ namespace Oefening_53
         }
 
         static void ThomasVB()
-        { }
+        {
+
+        }
+
         static void Jasper()
         {
 
@@ -22,6 +25,10 @@ namespace Oefening_53
         }
 
         static void Philip()
+        {
+
+        }
+        static void David()
         {
 
         }
