@@ -8,5 +8,10 @@ namespace Oefening_53
         {
             Console.WriteLine("Hello Class!");
         }
+
+        static void Glenn()
+        {
+
+        }
     }
 }
