@@ -20,5 +20,10 @@ namespace Oefening_53
         {
 
         }
+
+        static void Johnny()
+        {
+
+        }
     }
 }
