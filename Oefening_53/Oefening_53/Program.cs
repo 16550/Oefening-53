@@ -24,7 +24,7 @@ namespace Oefening_53
 
         }
 
-        static void Johnny()
+        static void Philip()
         {
 
         }
